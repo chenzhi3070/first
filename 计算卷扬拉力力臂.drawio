@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0" version="29.6.1">
+  <diagram name="第 1 页" id="MHQpwDYuuK0Ub4GvxWjQ">
+    <mxGraphModel dx="1004" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="104" width="104" x="220" y="386" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-3" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="440" as="sourcePoint" />
+            <mxPoint x="390" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="52" width="52" x="512" y="171" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="650" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-5" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="670" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-6" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="420" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-7" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="288" y="461" as="sourcePoint" />
+            <mxPoint x="180" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-8" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;fillColor=#d80073;strokeColor=#A50040;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="270" y="440" as="sourcePoint" />
+            <mxPoint x="540" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="600" y="255" as="sourcePoint" />
+            <mxPoint x="500" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-11" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=light-dark(#000000,#FF1120);" value="a" vertex="1">
+          <mxGeometry height="20" width="14" x="410" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O1" vertex="1">
+          <mxGeometry height="20" width="14" x="390" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O2" vertex="1">
+          <mxGeometry height="20" width="14" x="250" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="O3" vertex="1">
+          <mxGeometry height="20" width="14" x="520" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="已知O1/O2的坐标，角a和O1到O3距离， O2/O3的半径&lt;div&gt;1. 根据O1的坐标，角a和O1到O3的距离，可算出O3的坐标&lt;/div&gt;&lt;div&gt;2. 根据O2/O3的坐标及半径，可算出两个公切点的坐标（点A\点B）&lt;/div&gt;&lt;div&gt;3. 根据三角形（&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;点A\点B\点O1的坐标）, 可算出过点O1的垂线距离（即点O1到点C的距离 ）&lt;/span&gt;&lt;/div&gt;&lt;div&gt;注：算切点和垂线距离可使用AI推导&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="520" x="140" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="A" vertex="1">
+          <mxGeometry height="20" width="14" x="235" y="374" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="B" vertex="1">
+          <mxGeometry height="20" width="14" x="515" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="vLwCOSdpfv6I7TXPaAgt-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="C" vertex="1">
+          <mxGeometry height="20" width="14" x="319" y="307" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
